@@ -1,0 +1,21 @@
+{
+  "movie name": "The Matrix",
+  "duration": "136 min",
+  "story": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+  "Country": ["USA", "Australia"],
+  "Genre": ["Action", "Sci-Fi"],
+  "Release": "1999-03-31",
+  "Director": "Lana Wachowski, Lilly Wachowski",
+  "Cast": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Moss",
+    "Hugo Weaving",
+    "Joe Pantoliano"
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+  "iframe_urls": {
+    "URL1": "https://vidsrc.to/embed/movie/tt0133093",
+    "URL2": "https://vidsrc.xyz/embed/movie/tt0133093"
+  }
+}

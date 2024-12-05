@@ -1,0 +1,22 @@
+{
+  "movie name": "The Fall Guy",
+  "duration": "2h 6m",
+  "story": "A down-and-out stuntman must find the missing star of his ex-girlfriend's blockbuster film.",
+  "Country": ["Australia"],
+  "Genre": ["Drama", "Comedy"],
+  "Release": "May 3 2024",
+  "Director": "David Leitch",
+  "Cast": [
+    "Ryan Gosling",
+    "Emily Blunt",
+    "Aaron Taylor-Johnson",
+    "Hannah Waddingham",
+    "Teresa Palmer",
+    "Stephanie Hsu"
+  ],
+  "image_url": "https://www.universalpictures.co.uk/tl_files/content/movies/fall_guy/posters/01.jpg",
+  "iframe_urls": {
+    "URL1": "https://vidsrc.to/embed/movie/tt1684562",
+    "URL2": "https://vidsrc.xyz/embed/movie/tt1684562"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "movie name": "Forrest Gump",
+  "duration": "142 min",
+  "story": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+  "Country": ["USA"],
+  "Genre": ["Drama", "Romance"],
+  "Release": "1994-07-06",
+  "Director": "Robert Zemeckis",
+  "Cast": [
+    "Tom Hanks",
+    "Robin Wright",
+    "Gary Sinise",
+    "Sally Field",
+    "Michael Conner Humphreys"
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "iframe_urls": {
+    "URL1": "https://vidsrc.to/embed/movie/tt0109830",
+    "URL2": "https://vidsrc.xyz/embed/movie/tt0109830"
+  }
+}

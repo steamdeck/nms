@@ -1,0 +1,21 @@
+{
+  "movie name": "Interstellar",
+  "duration": "169 min",
+  "story": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+  "Country": ["USA", "United Kingdom", "Canada"],
+  "Genre": ["Adventure", "Drama", "Sci-Fi"],
+  "Release": "2014-11-07",
+  "Director": "Christopher Nolan",
+  "Cast": [
+    "Matthew McConaughey",
+    "Anne Hathaway",
+    "Jessica Chastain",
+    "Michael Caine",
+    "Mackenzie Foy"
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkMjE1ZDVmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+  "iframe_urls": {
+    "URL1": "https://vidsrc.to/embed/movie/tt0816692",
+    "URL2": "https://vidsrc.xyz/embed/movie/tt0816692"
+  }
+}

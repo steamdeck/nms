@@ -1,0 +1,21 @@
+{
+  "movie name": "The Exorcist",
+  "duration": "2h 2m",
+  "story": "When a mysterious entity possesses a young girl, her mother seeks the help of two Catholic priests to save her life.",
+  "Country": ["USA", "Australia"],
+  "Genre": ["Horror", "Thriller"],
+  "Release": "1999-03-31",
+  "Director": "Lana Wachowski, Lilly Wachowski",
+  "Cast": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Moss",
+    "Hugo Weaving",
+    "Joe Pantoliano"
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+  "iframe_urls": {
+    "URL1": "https://vidsrc.to/embed/movie/tt0070047",
+    "URL2": "https://vidsrc.xyz/embed/movie/tt0070047"
+  }
+}

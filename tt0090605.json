@@ -1,0 +1,29 @@
+{
+    "movie name": "Aliens",
+    "duration": "1 hours 10 minutes",
+    "story": "Decades after surviving the Nostromo incident, Ellen Ripley is sent out to re-establish contact with a terraforming colony but finds herself battling the Alien Queen and her offspring.\r\n\r\n",
+    "Country": [
+        "United States"
+    ],
+    "Genre": [
+        "sci fi",
+        "cyber punk",
+        "adventure",
+        "thriller"
+    ],
+    "Release": "2024-11-22",
+    "Director": "James Cameron",
+    "Cast": [
+        "Sigourney Weaver",
+        "Carrie Henn",
+        "Michael Biehn",
+        "Paul Reiser"
+    ],
+    "image_url": "https:\/\/m.media-amazon.com\/images\/M\/MV5BZjIyNGJhYzYtN2I1My00OTVhLWEyMzItZTVjNDMzOTVkYWViXkEyXkFqcGc@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "iframe_urls": {
+        "URL1": "https:\/\/vidsrc.in\/embed\/movie\/tt0090605",
+        "URL2": "https:\/\/vidsrc.net\/embed\/movie\/tt0090605",
+        "URL4": "https:\/\/vidsrc.io\/embed\/movie\/tt0090605",
+        "URL5": "https:\/\/vidsrc.pm\/embed\/movie\/tt0090605"
+    }
+}
